@@ -1,0 +1,2 @@
+﻿participant,mode,timestamp,aborted,seed,requested_duration_s,soa_s,response_window_s,target_proportion_requested,target_digit_0back,n_stimuli_planned,n_stimuli_completed,n_evaluable_trials,hits,misses,false_alarms,correct_rejections,sensitivity,specificity,balanced_accuracy,mean_hit_rt_ms,median_hit_rt_ms,total_space_responses,mental_effort_1_to_7
+grupo0_trial2,2-back,20260906_203208,0,200574934,45.0,1.8,1.2,0.25,,24,24,22,5,1,0,16,0.8333333333333334,1.0,0.9166666666666667,872.3,867.26,5,6
